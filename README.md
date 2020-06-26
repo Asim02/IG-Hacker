@@ -7,7 +7,14 @@
 
 ighack is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and. This tool works on both rooted Android device and Non-rooted Android device.
 
+[![Build Status](https://img.shields.io/github/stars/noob-hackers/ighack.svg)](https://github.com/noob-hackers/ighack)
+[![Build Status](https://img.shields.io/github/forks/noob-hackers/ighack.svg)](https://github.com/noob-hackers/ighack)
+[![License: MIT](https://img.shields.io/github/license/noob-hackers/ighack.svg)](https://github.com/noob-hackers/ighack)
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#ighack)
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Screenshot_2020-06-22-18-53-12-214_com termux](https://user-images.githubusercontent.com/49580304/85358677-f8c66d00-b531-11ea-8f38-c9e298551a9c.jpg)
 
 
 ### 📌 ***IG-HACK is available for***:
@@ -34,13 +41,13 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/Asim02/IG-Hacker
+$ git clone https://github.com/noob-hackers/ighack
 ```
 ```
 $ ls
 ```
 ```
-$ cd IG-Hacker
+$ cd ighack
 ```
 ```
 $ ls
@@ -60,42 +67,37 @@ $ bash ighack.sh
 * Open new session and start TOR (tor) before starting the attack
 
 ## 📌 ***Screenshot*** :
-![Screenshot_2020-06-22-22-03-35-080_com termux]()
+![Screenshot_2020-06-22-22-03-35-080_com termux](https://user-images.githubusercontent.com/49580304/85359279-6b841800-b533-11ea-8e27-1e7c3bfc882e.jpg)
 
 ## 📌 ***Full video tutorial***:
 
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/c/AsimPardasi
-
-https://www.youtube.com/channel/UC7beqjwADGp46PaQevHeTxA
+https://www.youtube.com/noobhackers
 
 ### Chekout our webite:
-https://asimpardasia.blogspot.com/?m=1
+https://www.noob-hackers.com
 
 ## 👥 ***Join***
 
-### Facebook Page: 
-https://m.facebook.com/groups/238103020707095/#_=_
+### Facebook group: 
+https://www.facebook.com/groups/1936478173310085
 
 ### Telegram channel:
-https://t.me/HelpEthicalHacking
+https://t.me/noobhack
 
-### WhatsApp Group:
-https://chat.whatsapp.com/LWfOnjGmnRd9Qjz6pqJYDt
-
-### WhatsApp Group2:
-https://chat.whatsapp.com/F1SAi3LpBJlDT8NR4rK7ln    
+### Facebook page:
+https://www.facebook.com/Noob-Hackers-250938565573643
 
 ### Instagram: 
-https://www.instagram.com/masimofficial
+https://www.instagram.com/noobhackers352
 
 ### Pinterest:
-
+https://in.pinterest.com/noobhackers
 
 ### My GitHub ID link:
-https://www.github.com/Asim02
+https://www.github.com/noob-hackers
 
 ### 📢 Warning
 
