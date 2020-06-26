@@ -41,13 +41,13 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/ighack
+$ git clone https://github.com/Asim02/IG-Hacker
 ```
 ```
 $ ls
 ```
 ```
-$ cd ighack
+$ cd IG-Hacker
 ```
 ```
 $ ls
